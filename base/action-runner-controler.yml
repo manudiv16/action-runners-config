@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: actions-runner-controller
+  name: actions-runner-helm
   namespace: argocd
 spec:
   project: default
