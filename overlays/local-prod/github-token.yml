@@ -3,7 +3,6 @@ kind: SealedSecret
 metadata:
   creationTimestamp: null
   name: controller-manager
-  namespace: actions-runner-system
 spec:
   encryptedData:
     github_token: AgAO62dXyziXP6NwhbfDBL0D88MnndrJli8kj0wwqiICHlGyx3r/hgdydBkFo4f08BTP6bWIV0Ga9NF42QlgOwNm7nyqrK8yEU1O6gmES7NX28OK33fK+p5cu+uZWxhkoaElje0Z/ybhIxTDlWSSF/UITxPTuYlmqq17vL/2e7yzSTgb76xR/jQuu/mrKpM0EpE9/berjcE00WPCZNdEGtc85dUkbikEN/K6+JY1Cu56EIgUYRNlYYv3MMlggPRgkGdlGd7pw1SIzGRaS4TAPPVLqDsVeq1pgX5JsiAED1lmSeG2aTStKKdL5v4iLaAukxBAHQjkcdz+RBsbclLWk2WBNkruZXDHScFfeQOKckGepb0Ws3f1KF5E6idiq9cXkkvwNA7qQ1fltvz0iYBdcJfOfRaBhNklJXPF3/JjORaFlGfPnHNcsV9N3JCyxkZseoCEtwxS7faEYGFqHcVW1Irn10lbIj9yyfKNaSrBsAzH5I1egccUcoi2Rob1+TzuTBgw4M1RPuNb/RGTgIoy7syM74Nm8iGXzl3WFXQ93cAC0eWyTB9Zwial+4XmurUL4va45sdqmVUw/WfX8WzJWm1bNP+J1zbsZHoRzNc/2utgV2UTzKCvpiNJyaL3nX1gFrls288x9HDB0Za4t5oL9aK0IV8X17rpxOuiSoMRcMRtoaX/GEtd9iDFd2LKtYVW7eKthVKSViIezyLcvvbznQa6DEzYWqkl+mozf+1eZ3DHEgm0U1wy5Cin
@@ -11,4 +10,3 @@ spec:
     metadata:
       creationTimestamp: null
       name: controller-manager
-      namespace: actions-runner-system
